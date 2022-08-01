@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music BMPQ</string>
+    <string name="hint_titulo">Titulo:</string>
+    <string name="hint_artista">Artista:</string>
+    <string name="hint_album">Album:</string>
+    <string name="hint_anio">Año:</string>
+</resources>
